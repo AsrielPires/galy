@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "removeComments": false,
+    // "declaration": true,
+    "allowJs": true,
+    "lib": [ "ES2021.String", "DOM" ],
+    "module": "CommonJS",
+    "alwaysStrict": true,
+    "noImplicitThis": true
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules"
+  ]
+}
